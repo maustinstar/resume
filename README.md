@@ -49,5 +49,5 @@ B.S., Computer Science, expected graduation May 2022
 
 [**AssetGenerator**](https://github.com/maustinstar/AssetGenerator) - Automatically generate all of your AppIcon renders from *one image... in Xcode!!!*
 
-## Let's chat
+## Hey! Let's start a conversation...
 Email me at mverges3@gatech.edu. 
