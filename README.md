@@ -8,6 +8,7 @@ I'm looking to gain experience on a team that values my mobile experience and ch
 
 ## Education
 Georgia Institute of Technology, Atlanta, GA
+
 B.S., Computer Science, expected graduation May 2022
 
 ## Skills
