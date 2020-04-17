@@ -48,3 +48,6 @@ B.S., Computer Science, expected graduation May 2022
 [**Github Actions Xcode CI**](https://github.com/maustinstar/starter-workflows/blob/master/ci/xcode.yml) - A Github Actions script to build and test tool iOS projects
 
 [**AssetGenerator**](https://github.com/maustinstar/AssetGenerator) - Automatically generate all of your AppIcon renders from *one image... in Xcode!!!*
+
+## Let's chat
+Email me at mverges3@gatech.edu. 
