@@ -24,6 +24,8 @@ B.S., Computer Science, expected graduation May 2022
 
 ## Awards
 
+2020 **The Inventure Prize** - In this live battle-of-the-startups, as part of 5 members competing for the queues team, our app won first place. See on [Vimeo](https://vimeo.com/397338747#t=410s) and on [App Store](apps.apple.com/us/app/queues/id1402712414).
+
 2019 **NSA Secure Software** - Named runner up for the NSA’s secure software practices challenge at HackGT6. see Zap Pay on [Devpost](https://devpost.com/software/zap-pay) and [Github](https://github.com/maustinstar/zappay).
 
 2018 **GT iOS Club Competition** - Placed third in a competition hosted by GT’s iOS Club. The submission, SuperRes, is a refined iteration of IRIS. see IRIS on [Devpost](https://devpost.com/software/iris-yvi2gj) and on [Github](https://github.com/maustinstar/IRIS).
