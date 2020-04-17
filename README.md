@@ -25,7 +25,7 @@ B.S., Computer Science, expected graduation May 2022
 
 ## Awards
 
-2020 **The Inventure Prize** - In this live battle-of-the-startups tv show, competing as part of the queues team, our app won first place. See on [Vimeo](https://vimeo.com/397338747#t=410s) and on [App Store](apps.apple.com/us/app/queues/id1402712414).
+2020 **The Inventure Prize** - In this live battle-of-the-startups tv show, competing as part of the queues team, our app won first place. See on [Vimeo](https://vimeo.com/397338747#t=410s) and on [App Store](https://apple.co/32Wbvxa).
 
 2019 **NSA Secure Software** - Named runner up for the NSA’s secure software practices challenge at HackGT6. See Zap Pay on [Devpost](https://devpost.com/software/zap-pay) and [Github](https://github.com/maustinstar/zappay).
 
@@ -37,7 +37,7 @@ B.S., Computer Science, expected graduation May 2022
 
 2019 **Varian Medical Systems Internship** -*Phantom AR* - In this internship, I worked with the Radiation Physics Group in the Department of Oncology to create a *mobile computer-vision* tool. I defined requirements, built the application, and completed validation testing.
 
-2019-20 **Queues Corporation** - *queues* - At this Georgia Tech startup, I am the lead iOS developer and UX designer. See on [App Store](apps.apple.com/us/app/queues/id1402712414).
+2019-20 **Queues Corporation** - *queues* - At this Georgia Tech startup, I am the lead iOS developer and UX designer. See on [App Store](https://apple.co/32Wbvxa).
 
 ## Personal Projects
 
