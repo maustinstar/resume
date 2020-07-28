@@ -35,7 +35,9 @@ B.S., Computer Science, expected graduation May 2022
 
 ## Experience
 
-2019 **Varian Medical Systems Internship** -*Phantom AR* - In this internship, I worked with the Radiation Physics Group in the Department of Oncology to create a *mobile computer-vision* tool. I defined requirements, built the application, and completed validation testing.
+2020 **lttl.ai** - *lttlmarket* As a contractor for lttl.ai, I am leading development of the lttlmarket iOS app. It is a P2P produce marketplace for hobbyist gardeners and professional farmers.
+
+2019 **Varian Medical Systems Internship** - *Phantom AR* - In this internship, I worked with the Radiation Physics Group in the Department of Oncology to create a *mobile computer-vision* tool. I defined requirements, built the application, and completed validation testing.
 
 2019-20 **Queues Corporation** - *queues* - At this Georgia Tech startup, I am the lead iOS developer and UX designer. See on [App Store](https://apple.co/32Wbvxa).
 
