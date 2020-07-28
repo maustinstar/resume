@@ -11,6 +11,8 @@ Georgia Institute of Technology, Atlanta, GA
 
 B.S., Computer Science, expected graduation May 2022
 
+Concentrations in People and Intelligence
+
 ## Skills
 
 ### Languages
