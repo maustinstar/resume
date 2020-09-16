@@ -39,7 +39,7 @@ Concentrations in People and Intelligence
 
 2020 **Independent Contractor** - *lttlmarket, Hestia Tech* As a contractor, I help startups build and ship UIKit and SwiftUI apps.
 
-2020 **Airbnb Internship Recepient** - offer deferred due to COVID-19*
+2020 **Airbnb Internship Recepient** - *offer deferred due to COVID-19*
 
 2019 **Varian Medical Systems Internship** - *Phantom AR* - In this internship, I worked with the Radiation Physics Group in the Department of Oncology to create a *mobile computer-vision* tool. I defined requirements, built the application, and completed validation testing.
 
